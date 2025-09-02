@@ -170,7 +170,7 @@ function App() {
         <h1 className='p-[1vmin] text-6xl md:text-7xl font-exo-bold bg-clip-text text-transparent bg-linear-30 from-blue-400 via-cyan-100/90 to-sky-400/80' >Матвей Синицкий</h1>
         <h2 className='p-[2.5vmin] md:p-[1vmin] md:text-xl text-xs font-inter-bold text-white/80' >Я занимаюсь разработкой Landing page's<br/> и Версткой сайтов</h2>
       </div>
-      <div className='mx-auto flex hs-anim2  font-inter-bold flex-col md:flex-row items-center w-[80%] md:w-[48%] mt-[35.5%] md:mt-[25%]  p-[1.5vmin] justify-between' >
+      <div className='mx-auto flex hs-anim2  font-inter-bold flex-col md:flex-row items-center w-[80%] md:w-[48%] mt-[28.5%] md:mt-[25%]  p-[1.5vmin] justify-between' >
         <button onClick={scrollToAbout} className='hs-b' >Обо мне</button>
         <button onClick={scrollToWorks} className='hs-b'>Мои работы</button>
         <button onClick={scrollToContacts} className='hs-b'>Контакты</button>
@@ -224,7 +224,7 @@ function App() {
      
       <div className='flex hover:scale-105 transition-all w-[50%] flex-row hover:cursor-pointer items-center font-inter-bold text-white/85' >
       <img src='./tg.webp' className='w-[8vw]' ></img>
-      <a className='underline text-3xl' href='https://matveysinitckiy.github.io/portfolio/' >Мой Телеграм</a>
+      <a className='underline text-3xl' href='https://t.me/MatveySinitckiy' >Мой Телеграм</a>
       </div>
      </div>
     </>
