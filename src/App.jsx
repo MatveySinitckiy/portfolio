@@ -224,7 +224,7 @@ function App() {
      
       <div className='flex hover:scale-105 transition-all w-[50%] flex-row hover:cursor-pointer items-center font-inter-bold text-white/85' >
       <img src='./tg.webp' className='w-[8vw]' ></img>
-      <a className='underline text-3xl' >Мой Телеграм</a>
+      <a className='underline text-3xl' href='https://matveysinitckiy.github.io/portfolio/' >Мой Телеграм</a>
       </div>
      </div>
     </>
